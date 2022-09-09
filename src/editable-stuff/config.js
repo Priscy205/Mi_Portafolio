@@ -23,10 +23,10 @@ const mainBody = {
       image: "fa-instagram",
       url: "https://www.instagram.com/priscy_stgo/",
     },
-    //{
-      //image: "fa-linkedin",
-      //url: "https://www.linkedin.com/in/hashirshoaeb/",
-    //},
+    {
+      image: "fa-linkedin",
+      url: "https://www.linkedin.com/in/priscila-santiago-l%C3%B3pez-0753a5239/",
+    },
     {
       image: "fa-twitter",
       url: "https://twitter.com/Priscil57866793",
@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Priscila Santiago López. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "My name is Priscila Santiago López. I am a student of Mechatronics Engineering at the Technology University of the Mixteca, I am currently finishing my sixth semester. I am interested in the area of prosthetic limb creation and software development. In my free time I like to read books, practice sports and take pictures.",
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
@@ -67,7 +67,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "Priscy205", //i.e."johnDoe12Gh"
-  reposLength: 4,
+  reposLength: 5,
   specificRepos: [],
 };
 
@@ -110,14 +110,14 @@ const skills = {
     //{ name: "C#", value: 80 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
+    //{ name: "Goal-Oriented", value: 80 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
+    { name: "Positivity", value: 60 },
     { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Problem Solving", value: 70 },
     { name: "Empathy", value: 90 },
     { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Creativity", value: 60 },
   ],
 };
 
@@ -126,8 +126,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I am currently learning Software Development apart from my career. If you have any questions, or if you just want to say hello, feel free to email me at",
+  email: "prisslopez5@gmail.com",
 };
 
 const experiences = {
