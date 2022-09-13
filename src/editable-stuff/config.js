@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Priscila Santiago López. I am a student of Mechatronics Engineering at the Technology University of the Mixteca, I am currently finishing my sixth semester. I am interested in the area of prosthetic limb creation and software development. In my free time I like to read books, practice sports and take pictures.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "https://docs.google.com/document/d/1u7KDnkhK26bW_QQLRcLsm_-AQviUlCWFUN2SLkJgUW4/edit?usp=sharing",
 };
 
 // PROJECTS SECTION
